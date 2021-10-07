@@ -19,16 +19,24 @@
   ##
   
   <div> 
-  <a href="https://web.facebook.com/migueleduardodani"><img src="https://img.shields.io/badge/-Facebook-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://web.facebook.com/migueleduardodani">
+    <img src="https://img.shields.io/badge/-Facebook-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
+  </a>
     
-  <a href="https://instagram.com/danielmigueleduardo" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/simpleicons.svg" />
-
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/simpleicons.svg" />
-</a>
     
-  <a href = "mailto:migueleduardodaniel1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/danielmigueleduardo" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
     
-  <a href="https://www.linkedin.com/in/miguel-eduado-daniel-4a18b4201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
+  <a href = "mailto:migueleduardodaniel1@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+    
+    
+  <a href="https://www.linkedin.com/in/miguel-eduado-daniel-4a18b4201" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
